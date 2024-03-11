@@ -1,3 +1,6 @@
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 <h1 align="center">Meu primeiro repositório :sunglasses:</h1>
 <h2 align="center"> Pesquisa sobre os comandos GIT <br> 
 <br>
@@ -18,3 +21,8 @@
 - `6. Git commit`: Talvez esse seja o comando mais usado do Git. Quando chegamos a determinado ponto em desenvolvimento, queremos salvar nossas alterações (talvez após uma tarefa ou resolução de problema específica).
 Git commit é como definir um ponto de verificação no processo de desenvolvimento. Você pode voltar a esse ponto mais tarde, se necessário.
 Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos ou alteramos no código-fonte.
+<div align="center">
+    <a href="https://github.com/fernadessalec">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fernandessalec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandessalec&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
